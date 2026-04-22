@@ -115,28 +115,28 @@ export const testimonials = [
   {
     id: 1,
     name: "Ali Raza",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+    image: "/person.avif",
     rating: 5,
     text: "The taste is really amazing and fresh. I loved the perfect balance of spice and crunch, it feels very satisfying. MS Crunch is the best!"
   },
   {
     id: 2,
     name: "Maham Ali",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    image: "/person.avif",
     rating: 5,
     text: "Absolutely loved it! Perfect spicy flavor with amazing crunch. One of the best chips I have tried so far. Highly recommended!"
   },
   {
     id: 3,
     name: "Usman Tariq",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
+    image: "/person.avif",
     rating: 5,
     text: "Honestly one of the best nimko mixes I have tried. Fresh, crunchy and full of desi flavor in every bite. Worth every penny!"
   },
   {
     id: 4,
     name: "Shahzaib Ali",
-    image: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop",
+    image: "/person.avif",
     rating: 5,
     text: "Absolutely amazing snack! Perfect spice level and very addictive. I really enjoyed it a lot and will definitely buy again!"
   },
